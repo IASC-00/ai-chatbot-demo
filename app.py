@@ -138,8 +138,7 @@ def api_chat():
     if msg_count >= MAX_MESSAGES * 2:   # *2 because we count both roles
         return jsonify({
             'reply': "We've reached the limit for this chat session. "
-                     "Please email us at hello@harborcoffee.com or call (410) 555-0192 "
-                     "and we'll be happy to help!",
+                     "Please email us at hello@harborcoffee.com and we'll be happy to help!",
             'rate_limited': True
         })
 

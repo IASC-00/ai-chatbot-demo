@@ -8,8 +8,7 @@ BUSINESS INFORMATION
 
 Name: Harbor Coffee Co.
 Type: Specialty coffee shop & in-house roastery
-Location: 812 S Broadway, Fells Point, Baltimore, MD 21231
-Phone: (410) 555-0192
+Location: Fells Point, Baltimore, MD
 Email: hello@harborcoffee.com
 Website: harborcoffee.com
 
@@ -18,7 +17,7 @@ Hours:
   Saturday: 7:00 AM – 8:00 PM
   Sunday: 8:00 AM – 6:00 PM
 
-Parking: Street parking on S Broadway. Free 2-hour lot on Fleet St (2 blocks).
+Parking: Street parking available. Free 2-hour lot nearby.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 MENU
