@@ -1,5 +1,8 @@
 # Project 1: AI Business Assistant Chatbot
 
+## Live Demo
+**[harbor-coffee-chatbot.onrender.com](https://harbor-coffee-chatbot.onrender.com)**
+
 ## Service Demonstrated
 **Custom AI Chatbot & Business Assistant** — clients pay for a tailored chatbot
 embedded in their site, trained on their products/services/FAQs.
